@@ -1,9 +1,9 @@
 module.exports = {
-  BOT_NAME: process.env.BOT_NAME || 'Trashcore',
+  BOT_NAME: process.env.BOT_NAME || 'cannoh',
   
-  OWNER_NAME: process.env.OWNER_NAME || 'Trashcore',
+  OWNER_NAME: process.env.OWNER_NAME || 'cannoh',
   
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '255778104517',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '254781346242',
   
   SESSION_DIR: process.env.SESSION_DIR || './trash_baileys',
   
