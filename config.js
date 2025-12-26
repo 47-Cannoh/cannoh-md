@@ -21,10 +21,10 @@ module.exports = {
 > Recode script give credits to›
 Giddy Tennor(Trashcore)
 
-📝 | Created By Trashcore
-🖥️ | Base Ori By Trashcore 
-📌 |Credits Putrazy Xd
-📱 |Chat wa:254104245659
+📝 | Created By perez
+🖥️ | Base Ori By perez
+📌 |Credits dave
+📱 |Chat wa:254781346242
 👑 |Github: Tennor-modz 
-✉️ |Email: giddytennor@gmail.com
+✉️ |Email: ignatiusperez 
 */
